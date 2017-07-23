@@ -9,4 +9,8 @@ Seekway
 init
 intit
 
+<<<<<<< HEAD
 ---master
+=======
+---F
+>>>>>>> feature1
